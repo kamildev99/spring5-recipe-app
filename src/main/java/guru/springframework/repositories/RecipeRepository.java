@@ -9,6 +9,4 @@ import java.util.Set;
 public interface RecipeRepository extends CrudRepository<Recipe, Long> {
 
 
-
-
 }
